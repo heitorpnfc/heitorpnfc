@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o Heitor Pereira 👋</h1>
 
-<!--
-**heitorpnfc/heitorpnfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Apaixonado pelo desenvolvimento de novas tecnologias, com foco em imagens médicas, neuroengenharia e programação, busco construir uma carreira sólida e de impacto nessas áreas.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img height="200" width="auto" src ="https://github-readme-stats.vercel.app/api?username=heitorpnfc&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="300" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorpnfc&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=assembly,ruby,c,makefile,swig,batchfile,jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=heitorpnfc&theme=dark&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Linguagens e Ferramentas</h2>
+<div align="center">
+    <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Lucas-R" height="30" width="40" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+    <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Lucas-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+    <img align="center" alt="Lucas-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+    <img align="center" alt="Lucas-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Lucas-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Lucas-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="center" alt="Lucas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+
+<h2 align="center">Contato</h2>
+<div align="center"> 
+  <a href="mailto:heitorpnfcthor@ufu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/heitorpnfc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
