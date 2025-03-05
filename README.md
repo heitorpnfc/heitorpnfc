@@ -1,3 +1,3 @@
-![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
+![](https://i.redd.it/whos-the-better-player-in-your-opinion-sae-or-kaiser-v0-sjhf6yi6uiua1.jpg?width=590&format=pjpg&auto=webp&s=0defaa225f271586e3d64d969716c666053d1e67)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=afc163.afc163)
