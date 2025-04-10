@@ -1,10 +1,6 @@
 <h1 align="center">Olá! Eu sou o Heitor Pereira 👋</h1>
 
 <p align="center">
-  <img src="https://i.redd.it/whos-the-better-player-in-your-opinion-sae-or-kaiser-v0-sjhf6yi6uiua1.jpg?width=590&format=pjpg&auto=webp&s=0defaa225f271586e3d64d969716c666053d1e67" width="20%">
-</p>
-
-<p align="center">
   Com conhecimento em programação e foco em engenharia biomédica, tenho experiência em linguagens de programação, inteligência artificial, neuroengenharia e processamento de imagens médicas.
 </p>
 
