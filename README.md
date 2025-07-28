@@ -4,8 +4,6 @@
   Com conhecimento em programação e foco em engenharia biomédica, tenho experiência em linguagens de programação, inteligência artificial, neuroengenharia e processamento de imagens médicas.
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=heitorpnfc&show_icons=true&theme=gotham&include_all_commits=true" alt="heitorpnfc" />
-
 <h2 align="center">Linguagens e Ferramentas</h2>
 <div align="center">
     <img align="center" alt="Heitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
