@@ -69,7 +69,6 @@
     </td>
   </tr>
 </table>
----
 <h2 align="center">🚀 Projetos em destaque</h2>
 <table>
   <tr>
