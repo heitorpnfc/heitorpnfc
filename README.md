@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/banner-ondas.gif" alt="Banner animado de Heitor Pereira com ondas azuis em movimento" width="100%" />
+<img src="banner-ondas.gif" alt="Banner animado de Heitor Pereira com ondas azuis em movimento" width="100%" />
 <h2>👋 Olá, mundo!</h2>
 <p>
     <strong>Desenvolvedor de software</strong> com experiência em automação, integrações e inteligência artificial.<br/>
