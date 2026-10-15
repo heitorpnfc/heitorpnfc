@@ -70,16 +70,6 @@
   </tr>
 </table>
 ---
-<h2 align="center">🏆 Experiências e formação</h2>
-LEVTY | Trainee em Desenvolvimento de Software — jun/2026 a out/2026  
-Atuação com JavaScript na plataforma SYDLE ONE, manutenção de funcionalidades, integrações por APIs, testes, logs e automação de processos.
-WhyU AI | Engenharia de Inteligência Artificial (RAG) — 2025  
-Desenvolvimento de soluções com modelos de linguagem, recuperação de informações e bancos de dados vetoriais.
-UFU | Engenharia Biomédica — conclusão prevista para 2026  
-Projetos envolvendo análise de dados, instrumentação, processamento de sinais e aprendizado de máquina.
-Scuola Superiore Sant’Anna | Experiência acadêmica internacional — 2025–2026  
-Período de estudos em Pisa, Itália.
----
 <h2 align="center">🚀 Projetos em destaque</h2>
 <table>
   <tr>
